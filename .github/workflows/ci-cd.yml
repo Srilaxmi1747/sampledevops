@@ -1,4 +1,4 @@
-name: .NET CI/CD with SonarCloud & Coverlet
+name: .NET CI/CD with SonarCloud & Coverlet      #SONAR PROJECT KEY Generated
 on:
   push:
     branches: ["main"]
